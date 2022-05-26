@@ -14,6 +14,6 @@ https://doi.org/10.1016/j.jcp.2022.111195
 
 A poor viscous scheme can lead to oscillations and failure of the simulations (and it does lot more...will be explained in future papers)
 
-This code kind of reproduces the resutls in the above (first) paper but it may or may not work if you change the parameters or the test case. Its upto you.
+It may or may not work if you change the parameters or the test case. Its upto you.
 
 Sainadh Chamarthi
